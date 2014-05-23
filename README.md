@@ -1,4 +1,4 @@
-fuzzylogic
+Fuzzy Logic
 ==========
 
 Fuzzy Logic Simulation (Greenhouse Control)
